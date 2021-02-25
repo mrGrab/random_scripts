@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# random_scripts
-few useful scripts
-=======
 #check_proxy.py
 Simple script to show your ip after connect to proxy
 Usage: script_name proxy_host:proxy_port (default - localhost:3001)
@@ -22,4 +18,4 @@ print text as scroll line
 #youtube-downloader.sh
 My bash implementation of usage youtube-dl for download playlists as mp3
 Usage: youtube-downloader.sh playlistId [dest_folder]
->>>>>>> e835a8c (Added readme + one more old script)
+
